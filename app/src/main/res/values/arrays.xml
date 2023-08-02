@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="message_common_words">
+		<item>写一首关于春天的诗歌</item>
+		<item>深圳今天天气怎么样？</item>
+		<item>kotlin var val 的区别</item>
+		<item>画一个可爱的狗狗</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--默认分割线样式-->
+    <style name="base_line_horizontal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dp_1</item>
+        <item name="android:background">@color/color_DDDDDD</item>
+    </style>
+
+    <style name="base_line_vertical">
+        <item name="android:layout_width">@dimen/dp_1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/color_DDDDDD</item>
+    </style>
+
+</resources>
