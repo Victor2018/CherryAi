@@ -172,4 +172,10 @@
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
+    <com.cherry.ai.ui.widget.TypeWriteTextView
+        android:id="@+id/mTTvContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#42309900"/>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

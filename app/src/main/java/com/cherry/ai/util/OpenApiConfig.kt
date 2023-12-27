@@ -16,7 +16,7 @@ object OpenApiConfig {
 
     const val AUTHORIZATION = "Authorization"
     const val BEARER_TOKEN_PREFIX = "Bearer "
-    const val BEARER_TOKEN = "${BEARER_TOKEN_PREFIX}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"
+    const val BEARER_TOKEN = "${BEARER_TOKEN_PREFIX}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"
 
     const val GPT_MODEL_TYPE = "gpt-3.5-turbo"
 
